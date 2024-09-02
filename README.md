@@ -106,3 +106,19 @@ Assign the following values to the object s2:
 5.8 Print the name, age, branch, prn, result, and year.
 
 6. End
+
+### Defining Method in class
+1. Start
+
+2. Class Definition:   
+2.1 Define a class named student.   
+2.2 Inside the class, define a public method named myMethod():   
+2.3 This method outputs the message: "I am studying in 2nd year.".   
+
+3. Main Function:   
+4. Declare an object s1 of the class student.   
+5. Method Invocation:   
+5.1Call the myMethod() function using the object s1.   
+6. Output:   
+6.1 The program prints the message "I am studying in 2nd year.".   
+7. End
