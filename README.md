@@ -67,6 +67,7 @@ int main()
     s1.result = 7.8;
     s1.year = 2;
     cout<<s1.name<<endl<<s1.age<<endl<<s1.branch<<endl<<s1.prn<<endl<<s1.result<<endl<<s1.year<<endl;
+}
 ```
 # Algorithms
 ### Defining class and objects
