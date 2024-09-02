@@ -73,53 +73,52 @@ int main()
 ### Defining class and objects
 1. Start
 2. Class Definition:   
-   Define a class named student with the following public data members:   
-   2.1 string name: To store the student's name.   
-   2.2 int age: To store the student's age.   
-   2.3 string branch: To store the student's branch of study.   
-   2.4 float result: To store the student's result.   
-   2.5 int year: To store the student's current academic year.   
-   2.6 int prn: To store the student's PRN (Personal Registration Number).   
+Define a class named student with the following public data members:   
+    - string name: To store the student's name.
+    - int age: To store the student's age.
+    - string branch: To store the student's branch of study.   
+    - float result: To store the student's result.   
+    - int year: To store the student's current academic year.   
+    - int prn: To store the student's PRN (Personal Registration Number).   
 
 
 3. Main Function:   
 Declare two objects s1 and s2 of the class student.
 4. Input and Output for First Student (s1):   
 Assign the following values to the object s1:   
-4.1 name = "Soham"   
-4.2 age = 19   
-4.3 branch = "ENTC"   
-4.4 prn = 065   
-4.5 result = 7.8   
-4.6 year = 2   
-4.7 Display the values stored in s1:   
-4.8 Print the name, age, branch, prn, result, and year.   
+    - name = "Soham"   
+    - age = 19   
+    - branch = "ENTC"   
+    - prn = 065   
+    - result = 7.8   
+    - year = 2   
+    - Display the values stored in s1:   
+    - Print the name, age, branch, prn, result, and year.   
 
 5. Input and Output for Second Student (s2):   
-Assign the following values to the object s2:   
-5.1 name = "Hussain"   
-5.2 age = 19   
-5.3 branch = "ENTC"   
-5.4 prn = 060   
-5.5 result = 8.83   
-5.6 year = 2   
-5.7 Display the values stored in s2:   
-5.8 Print the name, age, branch, prn, result, and year.
+Assign the following values to the object s2:
+    - name = "Hussain"   
+    - age = 19   
+    - branch = "ENTC"   
+    - prn = 060   
+    - result = 8.83   
+    - year = 2   
+    - Display the values stored in s2:   
+    - Print the name, age, branch, prn, result, and year.
 
-6. End
+7. End
 
 ### Defining Method in class
 1. Start
-
 2. Class Definition:   
-2.1 Define a class named student.   
-2.2 Inside the class, define a public method named myMethod():   
-2.3 This method outputs the message: "I am studying in 2nd year.".   
+    - Define a class named student.   
+    - Inside the class, define a public method named myMethod():   
+    - This method outputs the message: "I am studying in 2nd year.".   
 
 3. Main Function:   
 4. Declare an object s1 of the class student.   
 5. Method Invocation:   
-5.1Call the myMethod() function using the object s1.   
+    - Call the myMethod() function using the object s1.   
 6. Output:   
-6.1 The program prints the message "I am studying in 2nd year.".   
+    - The program prints the message "I am studying in 2nd year.".   
 7. End
